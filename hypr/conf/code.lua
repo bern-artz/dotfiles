@@ -1,0 +1,1 @@
+--windowrulev2 = opacity 0.85 override 0.85 override, class:^(vscodium)$
